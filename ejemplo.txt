@@ -1,2 +1,2 @@
 #/bin/bash
-echo "En cuestión de git siento que si se moverme bien con la herramienta, ya en cuanto a linux si estoy muy oxidado en cuanto a los comandos y la utilización del mismo. "
+echo "En cuestión de git siento que si se moverme bien con la herramienta, ya en cuanto a linux si estoy muy oxidado en cuanto a los comandos y la utilización del mismo. =)"
