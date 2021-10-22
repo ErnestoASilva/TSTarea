@@ -1,1 +1,2 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#/bin/bash
+echo "En cuestión de git siento que si se mueve bien con la herramienta, ya en cuanto a linux si estoy muy oxidado en cuanto a los comandos y la utilización del mismo. "
